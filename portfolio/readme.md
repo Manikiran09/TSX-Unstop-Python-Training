@@ -24,7 +24,7 @@ A personal portfolio website built with Flask, Bootstrap, SQLite, and Flask-Mail
 ## 📚 Setup Instructions
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/Manikiran09/TSX-Unstop-Python-Training/]
 cd your-repo-name
 ### 2. Create Virtual Environment
 python -m venv venv
